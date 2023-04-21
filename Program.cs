@@ -1,13 +1,13 @@
 ﻿
-using Taro;
+using Tarot;
 
-var Games = File.ReadAllLines("./TarotGG.csv").Skip(1).Select(l => new TaroGame(l.Split(';')));
+var Games = File.ReadAllLines("./TarotGG.csv").Skip(1).Select(l => new TarotGame(l.Split(';')));
 
 Dictionary<string, int> Scores = new();
 Dictionary<string, int> Win = new();
 Dictionary<string, int> Loose = new();
 
-foreach (TaroGame Game in Games)
+foreach (TarotGame Game in Games)
     foreach (string j in Game.Joueurs)
     {
         Scores[j] = 0;
@@ -17,7 +17,7 @@ foreach (TaroGame Game in Games)
         
 Console.WriteLine($"Parties: {Games.Count()}");
 
-foreach (TaroGame Game in Games)
+foreach (TarotGame Game in Games)
 {
     string[] Opps = Game.Opps;
     int score = Game.ScoreFinal;

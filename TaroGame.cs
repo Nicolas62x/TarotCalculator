@@ -1,5 +1,5 @@
 
-namespace Taro;
+namespace Tarot;
 
 enum InfoIdx : int
 {
@@ -29,10 +29,10 @@ public enum Mises : int {
     Garde_Contre = 6
 }
 
-public class TaroGame
+public class TarotGame
 {
     string[] Infos;
-    public TaroGame(string[] GameInfo) => Infos = GameInfo;
+    public TarotGame(string[] GameInfo) => Infos = GameInfo;
 
     public override string ToString()
     {

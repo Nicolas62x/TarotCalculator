@@ -1,4 +1,5 @@
 ﻿
+using System.Text;
 using Tarot;
 
 var Games = File.ReadAllLines("./TarotGG.csv").Skip(1).Select(l => new TarotGame(l.Split(';')));
@@ -16,6 +17,9 @@ foreach (TarotGame Game in Games)
     }
         
 Console.WriteLine($"Parties: {Games.Count()}");
+
+using var historyCSV = File.Open("./history.csv", FileMode.Create);
+historyCSV.Write(Encoding.Latin1.GetBytes(string.Join(';', Scores.Keys) + '\n'));
 
 foreach (TarotGame Game in Games)
 {
@@ -53,10 +57,13 @@ foreach (TarotGame Game in Games)
     else
         Scores[Game.Preneur] += score * Opps.Length;
 
-    
+    historyCSV.Write(Encoding.Latin1.GetBytes(string.Join(';', Scores.Values)  + '\n'));
 }
 
 var Classement = Scores.OrderByDescending(x => x.Value);
 
+using var ratingCSV = File.Open("./rating.csv", FileMode.Create);
+ratingCSV.Write(Encoding.Latin1.GetBytes($"Joueur;Points;Victoires;Parties;Ratio\n"));
+
 foreach (var joueur in Classement)
-    Console.WriteLine($"{joueur.Key};{joueur.Value};WinRate:;{Win[joueur.Key]}/{Win[joueur.Key] + Loose[joueur.Key]};{100 * Win[joueur.Key] / (double)(Win[joueur.Key] + Loose[joueur.Key]):#.#}%");
+    ratingCSV.Write(Encoding.Latin1.GetBytes($"{joueur.Key};{joueur.Value};{Win[joueur.Key]};{Win[joueur.Key] + Loose[joueur.Key]};{100 * Win[joueur.Key] / (double)(Win[joueur.Key] + Loose[joueur.Key]):#.#}%\n"));

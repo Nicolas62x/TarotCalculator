@@ -187,3 +187,11 @@ Garde;Tom;Nicolas;Pique;Tomm;Killian;Anthelme;X;1;1;0;3.5;X;X;X;X;X
 Garde Sans;Alexis;Tomm;Coeur;Anthelme;Killian;Nicolas;X;0;0;0;-7;X;X;X;X;X
 Garde;Nicolas;Killian;Coeur;Alexis;Anthelme;Tomm;X;1;1;0;30.5;X;X;X;X;X
 Garde;Nicolas;X;Trèfle;Anthelme;Alexis;Tomm;Killian;1;1;0;9.5;X;X;X;X;X
+Garde Contre;Tomm;Anthelme;Coeur;Tom;Alexis;Nicolas;X;1;1;1;27;X;X;X;X;X
+Garde;Nicolas;Tom;Pique;Killian;Alexis;Antoine;X;0;1;1;11;X;X;X;X;X
+Garde;Nicolas;Tom;Pique;Killian;Anthelme;Tomm;X;1;1;0;11.5;G;X;X;X;X
+Garde;Caroline;Tom;Coeur;Anthelme;Killian;Alexis;X;1;0;1;7.5;X;X;X;X;X
+Garde;Tomm;Nicolas;Coeur;Alexis;Tom;Caroline;X;1;1;1;13;X;SG;X;X;X
+Garde;Joel;Killian;Coeur;Tomm;Tom;Nicolas;X;0;1;0;-1;X;X;X;X;X
+Garde;Tomm;Killian;Pique;Caroline;Alexis;Nicolas;X;0;1;1;9;X;X;X;X;X
+Garde Sans;Caroline;Killian;Coeur;Alexis;Nicolas;Heloise;X;1;1;1;11.5;X;X;X;X;X

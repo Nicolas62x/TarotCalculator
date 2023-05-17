@@ -238,3 +238,6 @@ Garde;Killian;Nicolas;Coeur;Anthelme;Tom;Joel;X;1;1;1;6;X;X;X;X;X
 Garde;Nicolas;Anthelme;Pique;Tom;Killian;Joel;X;0;0;1;2.5;X;X;X;X;X
 Garde;Tom;Joel;Coeur;Anthelme;Nicolas;Killian;X;0;1;1;0.5;X;X;X;X;X
 Garde;Tom;Anthelme;Pique;Nicolas;Killian;Joel;X;1;0;0;14.5;X;SG;X;X;X
+Garde Contre;Alexis;X;Carreau;Killian;Tom;Rémi;Nicolas;0;0;0;-30.5;X;X;X;X;X
+Pousse;Alexis;Nicolas;Carreau;Killian;Rémi;Tom;X;0;1;0;-11.5;X;X;X;X;X
+Garde;Nicolas;Tom;Pique;Rémi;Alexis;Killian;X;0;0;1;-5;X;X;X;X;X

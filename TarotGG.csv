@@ -255,3 +255,10 @@ Garde;Antoine;Anthelme;Trèfle;Nicolas;Killian;Tom;X;0;1;0;-6.5;X;X;X;X;X
 Garde;Antoine;Nicolas;Coeur;Anthelme;Tom;Killian;X;1;0;1;11;X;X;X;X;X
 Garde;Anthelme;X;Carreau;Tom;Killian;Nicolas;Alexis;0;0;1;-38;X;X;X;X;X
 Garde;Killian;Tom;Trèfle;Alexis;Anthelme;Nicolas;X;0;1;1;17.5;G;DG;X;X;X
+Garde Sans;Antoine;Anthelme;Carreau;Tom;Enzo;Nicolas;X;1;1;1;24;X;X;X;X;X
+Garde;Caroline;Alexis;Carreau;Killian;Tom;Rémi;X;1;1;0;10.5;X;X;X;X;X
+Garde;Anthelme;Antoine;Carreau;Rémi;Enzo;Nicolas;X;0;1;0;-14.5;X;X;X;O;X
+Garde;Anthelme;X;Carreau;Tom;Alexis;Caroline;Killian;0;0;0;-20;X;X;X;X;X
+Pousse;Caroline;Killian;Pique;Nicolas;Alexis;Joel;X;0;1;1;19.5;X;X;X;X;X
+Garde;Tom;Anthelme;Coeur;Caroline;Killian;Joel;X;1;1;0;24;X;X;X;X;X
+Garde;Alexis;Killian;Carreau;Nicolas;Tom;Joel;X;1;1;0;19;X;X;X;O;X

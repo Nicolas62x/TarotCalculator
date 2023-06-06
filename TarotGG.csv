@@ -319,3 +319,10 @@ Garde;Anthelme;Killian;Pique;Nicolas;Tom;Antoine;X;1;1;1;15;X;X;X;X;X
 Garde;Tom;Anthelme;Pique;Killian;Nicolas;Caroline;X;1;1;0;-15.5;X;X;X;X;X
 Garde;Caroline;Alexis;Coeur;Nicolas;Tom;Killian;X;1;1;1;26;X;X;X;X;X
 Garde;Alexis;Tom;Coeur;Joel;Anthelme;Killian;X;0;0;1;5.5;X;X;X;X;X
+Garde Contre;Théophile;Anthelme;Pique;Enzo;Rémi;Antoine;X;1;1;1;47;X;X;X;X;X
+Garde;Nicolas;X;Trèfle;Rémi;Tom;Alexis;Enzo;0;1;1;-4.5;X;X;X;X;X
+Garde Sans;Nicolas;Enzo;Pique;Tom;Killian;Alexis;X;1;0;0;0.5;X;X;X;X;X
+Garde Sans;Enzo;Anthelme;Carreau;Killian;Antoine;Tom;X;1;1;0;8;X;X;X;X;X
+Garde;Nicolas;Enzo;Coeur;Anthelme;Killian;Antoine;X;1;0;1;21;X;SG;X;X;X
+Garde;Enzo;Killian;Pique;Tom;Nicolas;Anthelme;X;0;1;1;-5.5;X;X;X;X;X
+Garde;Tom;Nicolas;Trèfle;Anthelme;Antoine;Killian;X;1;1;1;25.5;X;DG;X;X;X

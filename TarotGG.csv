@@ -374,3 +374,12 @@ Garde;Killian;Caroline;Pique;Rémi;Alexis;Nicolas;X;1;0;1;17.5;X;X;X;X;X
 Pousse;Alexis;Killian;Pique;Rémi;Nicolas;Caroline;X;0;0;0;6;X;X;X;X;X
 Garde;Alexis;Rémi;Trèfle;Anthelme;Killian;Nicolas;X;1;1;0;17.5;X;X;X;X;X
 Garde Sans;Anthelme;X;Coeur;Nicolas;Antoine;Alexis;Killian;0;0;1;-2;X;X;X;X;X
+Garde Sans ;Alexis;Nicolas;Pique;Tom;Anthelme;Killian;X;1;0;1;10.5;X;X;X;X;X
+Pousse;Anthelme;Alexis;Trèfle;Nicolas;Tom;Killian;X;0;0;1;-4.5;X;X;X;X;X
+Garde;Nicolas;Alexis;Pique;Tom;Anthelme;Killian;X;0;1;0;6.5;X;SG;X;X;X
+Garde Contre;Tom;Théophile;Pique;Anthelme;Clément;Antoine;X;1;1;1;9.5;X;X;X;X;X
+Garde;Killian;Alexis;Pique;Nicolas;Anthelme;Antoine;X;1;0;1;41;X;X;X;X;X
+Garde Sans;Anthelme;Killian;Carreau;Antoine;Alexis;Tom;X;1;0;0;-21.5;X;SP;X;X;X
+Garde Sans;Antoine;Anthelme;Carreau;Nicolas;Tom;Alexis;X;1;1;0;14.5;X;SG;X;X;X
+Garde;Antoine;Alexis;Coeur;Killian;Nicolas;Anthelme;X;0;1;1;12.5;X;SG;X;X;X
+Garde Contre;Rémi;Nicolas;Coeur;Alexis;Killian;Tom;X;1;1;0;13;X;X;X;X;X

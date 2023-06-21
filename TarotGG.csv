@@ -393,3 +393,12 @@ Garde;Alexis;Rémi;Trèfle;Killian;Nicolas;Tom;X;0;0;1;-1.5;X;X;X;X;X
 Garde;Théophile;Clément;Carreau;Killian;Nicolas;Tom;X;0;1;1;13.5;X;X;X;X;X
 Garde;Nicolas;Clément;Pique;Théophile;Caroline;Heloise;X;1;1;1;30;X;X;X;X;X
 Garde;Théophile;Clément;Trèfle;Rémi;Alexis;Killian;X;0;1;1;-10;X;X;X;X;X
+Garde;Alexis;Théophile;Coeur;Clément;Tom;Rémi;X;0;1;1;28.5;X;X;X;X;X
+Garde;Killian;X;Pique;Alexis;Tom;Anthelme;Caroline;1;0;0;-13.5;X;X;X;X;X
+Garde;Anthelme;Caroline;Pique;Killian;Tom;Alexis;X;0;1;0;2;X;X;X;O;X
+Garde;Killian;Anthelme;Coeur;Caroline;Tom;Alexis;X;1;1;1;-2;X;X;X;X;X
+Garde Sans;Caroline;Clément;Pique;Alexis;Tom;Killian;X;1;0;0;-5.5;X;X;X;X;X
+Garde;Killian;Rémi;Pique;Tom;Anthelme;Théophile;X;1;0;0;4.5;X;SG;X;X;X
+Garde;Tom;Caroline;Trèfle;Nicolas;Rémi;Clément;X;1;1;0;0;X;X;X;X;X
+Garde;Rémi;X;Pique;Alexis;Clément;Tom;Nicolas;1;0;1;-15.5;P;X;X;X;X
+Garde;Tom;Alexis;Carreau;Nicolas;Rémi;Clément;X;0;0;1;-32.5;X;X;X;X;X

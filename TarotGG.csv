@@ -413,3 +413,13 @@ Garde;Anthelme;Clément;Carreau;Tom;Killian;Rémi;X;0;1;1;10;X;DG;X;X;X
 Garde;Killian;Nicolas;Trèfle;Théophile;Tom;Alexis;X;1;1;0;30.5;X;X;X;X;X
 Garde Contre;Théophile;Nicolas;Pique;Tom;Clément;Killian;X;1;0;1;19;X;X;X;X;X
 Garde;Clément;Nicolas;Pique;Alexis;Tom;Killian;X;1;1;0;24.5;X;X;X;X;X
+Pousse;Clément;Alexis;Trèfle;Anthelme;Rémi;Enzo;X;1;1;0;6;X;SG;X;X;X
+Garde;Antoine;Tom;Carreau;Killian;Nicolas;Enzo;X;1;0;1;-6;X;X;X;X;X
+Garde;Antoine;Anthelme;Trèfle;Rémi;Clément;Alexis;X;1;1;1;23;X;SG;X;X;X
+Garde;Anthelme;Nicolas;Trèfle;Alexis;Antoine;Tom;X;0;1;1;6;X;X;X;X;X
+Garde;Anthelme;Alexis;Pique;Clément;Tom;Nicolas;X;1;0;1;21;X;X;X;X;X
+Garde;Anthelme;Alexis;Trèfle;Clément;Tom;Nicolas;X;0;0;1;-9;X;SP;X;X;X
+Garde Contre;Clément;X;Pique;Alexis;Anthelme;Tom;Nicolas;1;0;1;-19;X;X;X;X;X
+Garde;Anthelme;X;Pique;Alexis;Enzo;Clément;Tom;1;1;1;9;X;X;X;O;X
+Garde Sans;Alexis;Nicolas;Trèfle;Clément;Enzo;Tom;X;1;1;1;41;X;X;X;X;X
+Garde;Clément;Nicolas;Trèfle;Alexis;Tom;Anthelme;X;1;0;0;0.5;X;X;X;X;X

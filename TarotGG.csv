@@ -446,3 +446,11 @@ Garde;Alexis;Théophile;Trèfle;Anthelme;Tom;Killian;X;1;1;1;32;X;X;X;X;X
 Garde;Clément;Nicolas;Carreau;Anthelme;Tom;Killian;X;0;0;0;-12;X;X;X;X;X
 Garde;Nicolas;Théophile;Coeur;Clément;Killian;Alexis;X;1;0;1;23;P;X;X;X;X
 Garde Sans;Clément;Alexis;Carreau;Killian;Nicolas;Anthelme;X;0;1;1;2;X;X;X;X;X
+Garde;Tom;Rémi;Pique;Théophile;Alexis;Nicolas;X;0;1;0;1;X;X;X;X;X
+Garde;Théophile;Anthelme;Coeur;Rémi;Nicolas;Killian;X;1;1;1;16;X;X;X;X;X
+Garde;Alexis;Tom;Coeur;Killian;Nicolas;Anthelme;X;1;1;1;4;X;X;X;X;X
+Garde;Théophile;Anthelme;Coeur;Tom;Alexis;Rémi;X;0;1;0;-2.5;X;X;X;X;X
+Garde;Alexis;Théophile;Carreau;Tom;Nicolas;Killian;X;0;0;0;-11.5;X;X;X;X;X
+Garde;Killian;Alexis;Pique;Rémi;Anthelme;Théophile;X;1;1;0;12.5;X;X;X;X;X
+Garde Sans;Rémi;Anthelme;Carreau;Tom;Théophile;Nicolas;X;1;1;0;27;X;SG;X;X;X
+Garde;Tom;Killian;Pique;Théophile;Anthelme;Nicolas;X;1;1;0;26;G;X;X;X;X

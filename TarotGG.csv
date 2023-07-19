@@ -604,7 +604,7 @@ Garde;Anthelme;Nicolas;Pique;Alexis;Tomm;Killian;X;0;1;1;8.5;X;X;X;X;X
 Garde;Anthelme;Alexis;Coeur;Nicolas;Killian;Tomm;X;1;1;1;18.5;X;X;X;X;X
 Garde Sans;Alexis;Killian;Pique;Nicolas;Tomm;Anthelme;X;1;0;0;-14;X;X;X;X;X
 Garde;Anthelme;Caroline;Pique;Nicolas;Killian;Alexis;X;1;1;0;13.5;X;X;X;X;X
-Pousse;Caroline;Tomm;Pique;Killian;Anthelme;Alexis;X;0;0;1;38.5;X;X;X;X;X
+Pousse;Caroline;Tomm;Pique;Killian;Anthelme;Alexis;X;0;0;1;-12.5;X;X;X;X;X
 Garde;Nicolas;Killian;Coeur;Caroline;Tomm;Alexis;X;1;1;0;12.5;X;SG;X;X;X
 Garde Sans;Killian;Nicolas;Trèfle;Alexis;Caroline;Anthelme;X;1;1;1;-4.5;X;X;X;X;X
 Garde;Antoine;Théophile;Pique;Tom;Félix;Rémi;X;1;1;0;26;X;X;X;X;X
@@ -616,3 +616,20 @@ Garde;Théophile;Rémi;Coeur;Tom;Félix;Antoine;X;0;1;1;23;X;X;X;X;X
 Garde;Tom;Rémi;Coeur;Antoine;Félix;Théophile;X;0;1;1;28;X;SG;X;X;X
 Garde;Rémi;Félix;Carreau;Tom;Antoine;Théophile;X;1;0;1;6;X;X;X;X;X
 Garde;Tom;Rémi;Coeur;Antoine;Félix;Théophile;X;1;1;1;9.5;X;X;X;X;X
+Garde Sans;Théophile;Alexis;Coeur;Enzo;Antoine;Tomm;X;0;1;1;11.5;X;X;X;X;X
+Pousse;Félix;Killian;Carreau;Nicolas;Tom;Rémi;X;0;0;0;-16.5;P;X;X;X;X
+Garde;Théophile;Alexis;Trèfle;Tomm;Enzo;Antoine;X;1;0;0;10.5;X;X;X;X;X
+Garde;Tom;Félix;Trèfle;Nicolas;Killian;Rémi;X;1;1;0;16;X;X;X;X;X
+Garde;Alexis;Enzo;Coeur;Théophile;Tomm;Antoine;X;0;0;1;-6;X;X;X;X;X
+Garde Sans;Rémi;Nicolas;Carreau;Killian;Tom;Félix;X;1;1;1;21.5;X;X;X;X;X
+Garde Sans;Antoine;Enzo;Trèfle;Tomm;Alexis;Théophile;X;1;0;1;3;P;X;X;O;X
+Garde;Nicolas;Félix;Trèfle;Killian;Rémi;Tom;X;1;1;1;21;X;X;X;X;X
+Garde;Tomm;Théophile;Carreau;Alexis;Enzo;Antoine;X;0;0;1;-7;X;X;X;X;X
+Garde;Nicolas;Félix;Pique;Rémi;Tom;Killian;X;1;1;1;45;X;X;X;X;X
+Garde Contre;Alexis;Heloise;Coeur;Tomm;Théophile;Enzo;X;1;1;1;5;X;X;X;X;X
+Garde;Félix;Tom;Trèfle;Killian;Rémi;Nicolas;X;0;0;1;-2;X;X;X;X;X
+Garde;Tomm;Enzo;Carreau;Alexis;Théophile;Heloise;X;0;1;1;25.5;X;SG;X;X;X
+Garde;Killian;Félix;Coeur;Nicolas;Rémi;Tom;X;1;0;1;-5.5;X;X;X;X;X
+Garde;Alexis;Théophile;Pique;Enzo;Heloise;Tomm;X;1;0;0;11;X;X;X;X;X
+Garde Sans;Killian;Tomm;Trèfle;Nicolas;Tom;Alexis;X;1;0;1;19;P;SG;X;X;X
+Garde;Nicolas;Heloise;Coeur;Killian;Tom;Tomm;X;0;1;1;-21.5;X;X;X;X;X

@@ -648,3 +648,14 @@ Garde;Alexis;Antoine;Pique;Félix;Killian;Anthelme;X;1;1;0;10.5;X;X;X;X;X
 Garde Sans;Nicolas;Tomm;Carreau;Tom;Caroline;Rémi;X;1;1;1;35;X;X;X;X;X
 Garde;Tomm;Nicolas;Pique;Alexis;Caroline;Tom;X;0;0;1;-8;X;DP;X;X;X
 Garde Contre;Tom;Nicolas;Coeur;Alexis;Caroline;Killian;X;0;1;1;6.5;X;X;X;X;X
+Garde Sans;Tomm;Enzo;Coeur;Nicolas;Rémi;Tom;X;1;0;1;15;X;X;X;X;X
+Garde;Tomm;Rémi;Coeur;Nicolas;Enzo;Anthelme;X;0;1;1;15;X;X;X;X;X
+Garde Sans;Anthelme;Enzo;Coeur;Nicolas;Tomm;Tom;X;1;1;0;-2.5;X;X;X;X;X
+Garde;Tom;Tomm;Pique;Nicolas;Enzo;Rémi;X;1;0;0;-33;X;X;X;X;X
+Pousse;Anthelme;Tomm;Trèfle;Nicolas;Enzo;Tom;X;0;0;0;-12.5;X;X;X;X;X
+Garde;Tom;Enzo;Coeur;Nicolas;Tomm;Anthelme;X;1;1;1;36;X;X;X;X;X
+Garde;Anthelme;X;Carreau;Nicolas;Tomm;Tom;Enzo;1;1;0;8.5;X;X;X;X;X
+Garde;Tomm;Enzo;Coeur;Nicolas;Tom;Anthelme;X;1;1;1;20.5;G;X;X;X;X
+Garde;Tom;Nicolas;Coeur;Enzo;Tomm;Anthelme;X;0;1;1;19.5;X;X;X;X;X
+Garde;Tomm;Enzo;Trèfle;Nicolas;Tom;Rémi;X;1;1;0;25;G;DG;X;X;X
+Garde;Tom;Tomm;Carreau;Nicolas;Rémi;Enzo;X;0;0;0;-22.5;P;X;X;X;X

@@ -687,3 +687,23 @@ Garde;Tomm;Clément;Pique;Nicolas;Killian;Anthelme;X;1;1;0;12;X;X;X;X;X
 Garde;Anthelme;Antoine;Coeur;Nicolas;Killian;Clément;X;1;0;1;-8.5;X;X;X;X;X
 Garde;Nicolas;Clément;Trèfle;Killian;Alexis;Tomm;X;0;1;1;-7.5;X;X;X;X;X
 Garde;Enzo;Nicolas;Pique;Killian;Tomm;Clément;X;0;0;1;0.5;P;X;X;X;X
+Garde;Nicolas;Tomm;Coeur;Caroline;Enzo;Killian;X;1;0;1;13;X;X;X;X;X
+Garde;Théophile;Tom;Coeur;Alexis;Félix;Anthelme;X;1;1;0;0;X;X;X;X;X
+Garde;Tomm;Nicolas;Coeur;Enzo;Caroline;Killian;X;1;0;1;0.5;X;X;X;X;X
+Garde;Théophile;Tom;Trèfle;Alexis;Félix;Anthelme;X;0;1;0;-6.5;X;X;X;X;X
+Garde;Nicolas;Tomm;Trèfle;Killian;Caroline;Enzo;X;1;1;0;9;X;X;X;X;X
+Garde;Anthelme;Félix;Trèfle;Alexis;Tom;Théophile;X;1;1;1;12;X;X;X;X;X
+Garde Sans;Killian;Caroline;Coeur;Nicolas;Enzo;Tomm;X;1;1;1;15.5;X;X;X;X;X
+Garde;Anthelme;Théophile;Trèfle;Alexis;Tom;Félix;X;1;1;0;22.5;X;SG;X;X;X
+Garde Sans;Alexis;Anthelme;Coeur;Théophile;Félix;Tom;X;0;0;0;-10;P;X;X;X;X
+Garde;Caroline;Tomm;Pique;Nicolas;Enzo;Killian;X;1;0;0;-2.5;X;X;X;X;X
+Garde Sans;Félix;Anthelme;Trèfle;Alexis;Tom;Théophile;X;1;1;1;4;X;X;X;X;X
+Garde Sans;Killian;Caroline;Coeur;Nicolas;Tomm;Enzo;X;1;1;1;11;X;X;X;X;X
+Garde;Théophile;Anthelme;Trèfle;Alexis;Félix;Tom;X;1;0;0;-7;X;X;X;X;X
+Garde Sans;Enzo;Caroline;Coeur;Killian;Tomm;Nicolas;X;0;0;0;-6;X;X;X;X;X
+Garde;Nicolas;X;Carreau;Killian;Tomm;Caroline;Enzo;0;0;1;-29;X;X;X;X;X
+Garde;Félix;Anthelme;Trèfle;Alexis;Tom;Théophile;X;1;1;0;7.5;X;SG;X;X;X
+Garde;Caroline;Nicolas;Trèfle;Killian;Enzo;Tomm;X;1;0;1;-0.5;X;X;X;X;X
+Garde Sans;Théophile;Félix;Trèfle;Alexis;Tom;Anthelme;X;1;0;0;3.5;X;X;X;O;X
+Garde;Tom;Nicolas;Carreau;Alexis;Enzo;Tomm;X;0;1;1;12.5;X;DG;O;X;X
+Garde Sans;Enzo;Killian;Coeur;Caroline;Tom;Tomm;X;0;1;0;-13.5;X;X;X;X;X

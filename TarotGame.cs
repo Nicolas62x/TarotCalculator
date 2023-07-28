@@ -1,4 +1,6 @@
 
+using System.Globalization;
+
 namespace Tarot;
 
 enum InfoIdx : int
@@ -36,7 +38,7 @@ public class TarotGame
 
     public override string ToString()
     {
-        return $"{Prise} de {Preneur}{(Partenaire is null ? "" : $" avec {Partenaire}")}: {Score} => {ScoreFinal} contre: {string.Join(", ", Opps)}";
+        return $"{Prise} de {Preneur}{(Partenaire is null ? "" : $" avec {Partenaire}")}: {Score.ToString("0.00", CultureInfo.InvariantCulture)} => {ScoreFinal} contre: {string.Join(", ", Opps)}";
     }
 
     string? StringOrNull(string? value) => string.IsNullOrWhiteSpace(value) ? null : value.Trim() == "X" ? null : value.Trim();
@@ -55,7 +57,7 @@ public class TarotGame
             temp.Add(StringOrNull(Infos[(int)InfoIdx.Opp3]));
             temp.Add(StringOrNull(Infos[(int)InfoIdx.Opp4]));
 
-            string[] res = (string[])temp.Where(x => x is not null && x is not "X").ToArray();
+            string[] res = (string[])temp.Where(x => x is not null && x is not "X").ToArray()!;
 
             if (res.Length < 3)
                 throw new ArgumentException("Less than 3 opponents is not possible");
@@ -76,7 +78,7 @@ public class TarotGame
             temp.Add(StringOrNull(Infos[(int)InfoIdx.Opp3]));
             temp.Add(StringOrNull(Infos[(int)InfoIdx.Opp4]));
 
-            string[] res = (string[])temp.Where(x => x is not null && x is not "X").ToArray();
+            string[] res = (string[])temp.Where(x => x is not null && x is not "X").ToArray()!;
 
             if (res.Length < 4)
                 throw new ArgumentException("Less than 4 opponents is not possible");
@@ -93,7 +95,7 @@ public class TarotGame
         _ => throw new ArgumentException("Invalid Mise")
     };
 
-    public double Score => double.Parse(Infos[(int)InfoIdx.Résultat]);
+    public double Score => double.Parse(Infos[(int)InfoIdx.Résultat], CultureInfo.InvariantCulture);
 
     public bool B1 => Infos[(int)InfoIdx.B1].Trim() == "1";
     public bool B21 => Infos[(int)InfoIdx.B21].Trim() == "1";

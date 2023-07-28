@@ -1,4 +1,5 @@
 ﻿
+using System.Globalization;
 using System.Text;
 using Tarot;
 
@@ -38,21 +39,21 @@ winRatesCSV.Write(Encoding.Latin1.GetBytes($"Joueur;WinPren;PartiePren;WrPren;;W
 
 foreach (var joueur in Classement)
 {
-    ratingCSV.Write(Encoding.Latin1.GetBytes($"{joueur.Name};{joueur.Score};{joueur.Win};{joueur.Games.Count};{joueur.WinRate:0.00}%\n"));
+    ratingCSV.Write(Encoding.Latin1.GetBytes($"{joueur.Name};{joueur.Score};{joueur.Win};{joueur.Games.Count};{joueur.WinRate.ToString("0.00", CultureInfo.InvariantCulture)}%\n"));
 
     string[] Values = new string[] {
         joueur.Name,
         joueur.WinPren.ToString(),
         (joueur.WinPren + joueur.LoosePren).ToString(),
-        joueur.WinRatePren.ToString("0.00") + '%',
+        joueur.WinRatePren.ToString("0.00", CultureInfo.InvariantCulture) + '%',
         "",
         joueur.WinPart.ToString(),
         (joueur.WinPart + joueur.LoosePart).ToString(),
-        joueur.WinRatePart.ToString("0.00") + '%',
+        joueur.WinRatePart.ToString("0.00", CultureInfo.InvariantCulture) + '%',
         "",
         joueur.WinOpp.ToString(),
         (joueur.WinOpp + joueur.LooseOpp).ToString(),
-        joueur.WinRateOpp.ToString("0.00") + '%',
+        joueur.WinRateOpp.ToString("0.00", CultureInfo.InvariantCulture) + '%',
     };
 
     winRatesCSV.Write(Encoding.Latin1.GetBytes(string.Join(';', Values) + '\n'));

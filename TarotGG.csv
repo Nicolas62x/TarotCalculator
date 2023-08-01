@@ -738,4 +738,13 @@ Garde;Tomm;Tom;Pique;Nicolas;Caroline;Félix;X;0;1;1;21;X;X;X;X;X
 Garde;Enzo;Tomm;Trèfle;Nicolas;Killian;Tom;X;0;1;0;-17.5;X;X;X;X;X
 Garde;Tomm;Nicolas;Coeur;Killian;Enzo;Tom;X;1;1;0;6;X;X;X;X;X
 Garde;Nicolas;Enzo;Coeur;Killian;Tom;Tomm;X;1;1;0;5;X;X;X;X;X
-Garde;Killian;Enzo;Pique;Tom;Nicolas;Tomm;X;1;1;0;21;X;X;X;X;X
+Garde Sans;Killian;Enzo;Pique;Tom;Nicolas;Tomm;X;1;1;0;21;X;X;X;X;X
+Garde Sans;Enzo;Tom;Carreau;Tomm;Nicolas;Caroline;X;0;1;1;16.5;G;X;X;X;X
+Garde;Nicolas;Tomm;Pique;Caroline;Enzo;Killian;X;1;1;0;25.5;X;X;X;X;X
+Garde;Tom;Caroline;Coeur;Nicolas;Enzo;Killian;X;1;1;0;14;X;X;X;X;X
+Garde Sans;Tom;Caroline;Coeur;Nicolas;Enzo;Tomm;X;0;1;0;-17.5;X;X;X;X;X
+Garde;Nicolas;Killian;Trèfle;Enzo;Caroline;Tomm;X;1;1;1;11.5;G;X;X;X;X
+Garde;Tomm;Caroline;Coeur;Nicolas;Tom;Killian;X;1;0;0;2.5;X;X;X;X;X
+Garde;Tom;Killian;Trèfle;Nicolas;Tomm;Caroline;X;1;1;1;15;X;X;X;X;X
+Garde;Caroline;Nicolas;Coeur;Tom;Tomm;Killian;X;1;1;1;24;X;X;X;X;X
+Garde;Caroline;Tom;Coeur;Tomm;Nicolas;Killian;X;0;1;0;15.5;X;X;X;X;X

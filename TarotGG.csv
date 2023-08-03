@@ -759,3 +759,14 @@ Garde;Killian;Enzo;Trèfle;Tomm;Tom;Nicolas;X;1;1;0;8;X;X;X;X;X
 Garde;Nicolas;X;Carreau;Killian;Tomm;Tom;Enzo;1;1;0;2;X;X;X;X;X
 Garde;Nicolas;Tomm;Coeur;Killian;Tom;Enzo;X;1;0;0;8.5;X;X;X;X;X
 Garde;Tom;Nicolas;Carreau;Killian;Tomm;Enzo;X;0;1;1;-1.5;X;X;X;X;X
+Garde Sans;Théophile;Tom;Pique;Tomm;Nicolas;Killian;X;0;1;1;7;X;X;X;X;X
+Garde;Tomm;Tom;Trèfle;Nicolas;Théophile;Killian;X;1;1;0;25.5;X;X;X;X;X
+Garde;Killian;Tomm;Coeur;Nicolas;Tom;Théophile;X;1;1;0;25;X;X;X;X;X
+Garde;Théophile;Tomm;Pique;Nicolas;Killian;Tom;X;1;1;0;11.5;X;X;X;X;X
+Garde;Tomm;Nicolas;Carreau;Tom;Théophile;Killian;X;1;0;0;-1;X;X;X;X;X
+Garde;Tom;Nicolas;Carreau;Théophile;Killian;Tomm;X;1;1;0;8;X;X;X;X;X
+Garde Sans;Théophile;Tomm;Pique;Nicolas;Killian;Tom;X;1;0;1;17.5;X;X;O;X;X
+Garde;Killian;Théophile;Carreau;Nicolas;Tomm;Tom;X;1;0;0;5;X;X;X;X;X
+Garde;Killian;X;Pique;Nicolas;Théophile;Tomm;Tom;1;0;1;6.5;X;X;X;X;X
+Garde;Théophile;Tomm;Pique;Nicolas;Killian;Tom;X;1;0;0;-17.5;X;X;X;X;X
+Garde;Théophile;Tom;Coeur;Nicolas;Killian;Tomm;X;1;1;1;22;X;X;X;X;X

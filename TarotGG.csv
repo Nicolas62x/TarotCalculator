@@ -786,3 +786,6 @@ Garde;Nicolas;Tom;Trèfle;Rémi;Félix;Killian;X;1;1;0;-3;X;X;X;X;X
 Garde;Félix;Rémi;Coeur;Nicolas;Killian;Tom;X;1;1;1;25.5;X;X;X;X;X
 Garde;Rémi;Félix;Trèfle;Nicolas;Killian;Tom;X;1;1;0;19.5;X;SG;X;X;X
 Garde;Tom;Rémi;Coeur;Nicolas;Killian;Félix;X;1;0;1;9.5;X;SG;X;X;X
+Garde;Killian;X;X;Nicolas;Rémi;Tom;X;1;0;1;-10;X;X;X;X;X
+Garde;Nicolas;X;X;Rémi;Killian;Tom;X;1;1;1;10;X;X;X;X;X
+Garde;Tom;X;X;Nicolas;Rémi;Killian;X;1;1;0;8;X;X;X;X;X

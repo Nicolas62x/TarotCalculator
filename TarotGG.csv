@@ -795,3 +795,7 @@ Garde;Félix;Enzo;Carreau;Nicolas;Tom;Killian;X;0;1;0;-8;X;X;X;X;X
 Garde;Nicolas;Killian;Pique;Rémi;Tom;Enzo;X;0;0;1;12.5;X;X;X;X;X
 Garde;Killian;Nicolas;Coeur;Rémi;Enzo;Félix;X;1;1;0;25;X;X;X;X;X
 Garde;Tom;Enzo;Trèfle;Killian;Rémi;Félix;X;1;1;1;-7.5;X;X;X;X;X
+Garde;Rémi;Heloise;Carreau;Killian;Nicolas;Tom;X;0;1;1;16.5;X;X;X;X;X
+Garde;Nicolas;Heloise;Pique;Killian;Tom;Rémi;X;1;0;0;-12.5;P;X;X;X;X
+Garde;Tom;Rémi;Pique;Killian;Nicolas;Heloise;X;0;1;1;25.5;X;X;X;X;X
+Garde Sans;Nicolas;Heloise;Trèfle;Killian;Rémi;Tom;X;0;0;0;-1.5;X;X;X;X;X

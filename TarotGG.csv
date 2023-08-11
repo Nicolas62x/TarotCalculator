@@ -799,3 +799,8 @@ Garde;Rémi;Heloise;Carreau;Killian;Nicolas;Tom;X;0;1;1;16.5;X;X;X;X;X
 Garde;Nicolas;Heloise;Pique;Killian;Tom;Rémi;X;1;0;0;-12.5;P;X;X;X;X
 Garde;Tom;Rémi;Pique;Killian;Nicolas;Heloise;X;0;1;1;25.5;X;X;X;X;X
 Garde Sans;Nicolas;Heloise;Trèfle;Killian;Rémi;Tom;X;0;0;0;-1.5;X;X;X;X;X
+Garde;Nicolas;Tom;Trèfle;Killian;Rémi;Félix;X;1;1;1;17.5;X;X;X;X;X
+Garde;Félix;Tom;Coeur;Killian;Rémi;Nicolas;X;1;1;1;35;X;X;X;X;X
+Garde;Félix;Tom;Trèfle;Killian;Rémi;Nicolas;X;1;1;0;11.5;X;X;X;X;X
+Garde Sans;Killian;Tom;Trèfle;Nicolas;Rémi;Félix;X;1;1;0;11;X;X;X;X;X
+Garde;Nicolas;Rémi;Pique;Killian;Tom;Félix;X;1;1;0;28;X;X;X;X;X

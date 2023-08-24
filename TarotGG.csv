@@ -836,3 +836,13 @@ Pousse;Alexis;Nicolas;Pique;Rémi;Tom;Enzo;X;1;1;1;24.5;X;X;X;X;X
 Garde;Enzo;Rémi;Trèfle;Nicolas;Alexis;Tom;X;1;1;1;19.5;X;X;X;X;X
 Garde Sans;Théophile;Clément;Trèfle;Rémi;Alexis;Tom;X;1;0;1;-3;X;X;X;X;X
 Garde Contre;Théophile;Rémi;Pique;Nicolas;Enzo;Tom;X;1;1;1;27;G;X;X;X;X
+Pousse;Alexis;Nicolas;Carreau;Enzo;Tom;Rémi;X;0;1;0;-5.5;X;X;X;X;X
+Garde Sans;Enzo;Tom;Carreau;Nicolas;Alexis;Rémi;X;1;0;0;17.5;X;X;X;X;X
+Garde;Enzo;Nicolas;Trèfle;Rémi;Tom;Alexis;X;1;1;1;25;X;X;X;X;X
+Garde;Enzo;Alexis;Trèfle;Rémi;Tom;Nicolas;X;1;1;0;16;X;X;X;X;X
+Garde Sans;Alexis;X;Trèfle;Rémi;Nicolas;Tom;Enzo;0;0;0;-28.5;X;SP;X;P;X
+Garde;Alexis;Nicolas;Coeur;Rémi;Tom;Enzo;X;1;0;1;10.5;X;SG;X;X;X
+Garde;Nicolas;Enzo;Coeur;Rémi;Tom;Alexis;X;1;1;0;18;G;SG;X;X;X
+Garde;Clément;Nicolas;Trèfle;Enzo;Théophile;Alexis;X;1;1;1;28;X;X;X;X;X
+Garde;Tom;Nicolas;Coeur;Alexis;Théophile;Clément;X;1;1;1;24;X;X;X;X;X
+Garde;Clément;Alexis;Coeur;Nicolas;Tom;Enzo;X;0;1;0;-4.5;X;X;X;X;X
